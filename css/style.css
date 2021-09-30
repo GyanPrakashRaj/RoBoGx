@@ -1,14 +1,3 @@
-/*
-   
-    Template Name : DevBlog - Personal Blog Template
-    Author : UiPasta Team
-    Website : http://www.uipasta.com/
-    Support : http://www.uipasta.com/support/
-	
-	
-*/
-
-
 
 /*
    
@@ -40,7 +29,6 @@
   24. Scroll To Top
   25. Responsive
   26. Useful Classes ( Such as : Margin, Padding, colors  "This classes will be helpful for you during designing/development time.")
-  27. UiPasta Credit
  
 
 */
@@ -1132,7 +1120,7 @@ blockquote {
 }
 
 .whatsApp{
-    background-color: #11bb44;
+    background-color: #25D366;
 }
 
 .skype {
