@@ -588,7 +588,17 @@ div.blog-post {
 }
 
 .blog-post .post-image img {
-    width: 100%;
+    width: 80%;
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto; 
+}
+
+.blog-post .post-imau img{
+    width: 80%;
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto; 
 }
 
 .blog-post .post-image p {
@@ -749,6 +759,12 @@ blockquote {
     margin-bottom: 10px;
 }
 
+.list-babu li {
+    font-size: 20px;
+    color: #333333;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
 .list-style li {
     list-style-type: decimal;
 }
