@@ -476,6 +476,7 @@ tr > td:nth-child(2) {
 
 .contact-us-detail {
     margin-top: 10px;
+    text-align: center;
 }
 
 .contact-us-detail i {
@@ -613,6 +614,15 @@ div.blog-post {
 
 .blog-post .post-title h1 {
     color: #333333;
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 700;
+    margin-top: 24px;
+}
+
+.blog-post .post-loli h1{
+    color: #333333;
+    text-align: center;
     font-size: 35px;
     line-height: 45px;
     font-weight: 700;
