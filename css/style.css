@@ -580,7 +580,14 @@ tr > td:nth-child(2) {
 }
 
 
-
+.baburao h5{
+    color: #333333;
+    text-align: center;
+    font-size: 27px;
+    line-height: 45px;
+    font-weight: 500;
+    margin-top: 24px;
+}
 /* Blog Post & Single Blog Page */
 
 div.blog-post {
