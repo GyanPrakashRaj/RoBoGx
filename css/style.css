@@ -123,8 +123,8 @@ button {
 .content-page {
     padding-top: 30px;
     padding-bottom: 60px;
-    border-top: 1px dashed #dedede;
-    border-bottom: 1px dashed #dedede;
+    border-top: 2.7px dashed #1abc9c;
+    border-bottom: 2.5px dashed #1abc9c;
 }
 
 .grabbing {
@@ -324,14 +324,14 @@ button {
 
 .my-detail {
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
     background: #ffffff;
-    box-shadow: -2px -1px 88px 0px rgba(0, 0, 0);
+    box-shadow: -2px -2px -4px -2px rgba(0, 0, 0);
 }
 
 .my-detail .white-spacing {
     padding: 23px 0;
-    border-bottom: 1px dashed #cccccc;
+    border-bottom: 2px dashed #1abc9c;
 }
 
 .my-detail h1 {
