@@ -315,7 +315,7 @@ button {
 
 .my-pic {
     width: 100%;
-    box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
+    box-shadow: -2px -1px 88px 0px rgb(0, 0, 0);
 }
 
 .my-pic img {
@@ -326,7 +326,7 @@ button {
     text-align: center;
     margin-bottom: 30px;
     background: #ffffff;
-    box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
+    box-shadow: -2px -1px 88px 0px rgba(0, 0, 0);
 }
 
 .my-detail .white-spacing {
